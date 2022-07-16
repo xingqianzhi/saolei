@@ -1,0 +1,7 @@
+{
+    "cmake.cmakePath": "D:\\ruanjian\\CMake\\bin\\cmake.exe",
+    "cmake.mingwSearchDirs": [
+      "D:\\ruanjian\\CMake\\bin"
+   ],
+   "cmake.generator": "MinGW Makefiles"
+}

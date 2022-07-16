@@ -1,0 +1,3 @@
+D:/Learning materials/computer/c/example/cmake/saolei/build/CMakeFiles/main.dir
+D:/Learning materials/computer/c/example/cmake/saolei/build/CMakeFiles/edit_cache.dir
+D:/Learning materials/computer/c/example/cmake/saolei/build/CMakeFiles/rebuild_cache.dir
